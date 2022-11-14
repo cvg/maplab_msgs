@@ -1,0 +1,7 @@
+# Array of map lookup requests
+maplab_msgs/MapPoseLookupRequest map_lookups
+
+---
+
+# Array of map lookup responses
+maplab_msgs/MapPoseLookupResponse map_lookups
