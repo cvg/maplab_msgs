@@ -1,0 +1,6 @@
+# Partial or complete mission id hash of mission that should be anchored according to the set T_G_M.
+std_msgs/String mission_id_to_anchor
+geometry_msgs/Pose T_G_M
+---
+std_msgs/String message
+std_msgs/Bool success
